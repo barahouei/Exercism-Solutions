@@ -1,3 +1,3 @@
-module greeting
+module hello-world
 
 go 1.16
