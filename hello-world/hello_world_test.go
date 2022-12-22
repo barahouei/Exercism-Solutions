@@ -1,4 +1,4 @@
-package greeting
+package main
 
 import "testing"
 
