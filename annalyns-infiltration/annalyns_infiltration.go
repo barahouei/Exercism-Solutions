@@ -12,9 +12,7 @@ func CanSpy(knightIsAwake, archerIsAwake, prisonerIsAwake bool) bool {
 
 // CanSignalPrisoner can be executed if the prisoner is awake and the archer is sleeping.
 func CanSignalPrisoner(archerIsAwake, prisonerIsAwake bool) bool {
-	can := ((!archerIsAwake && !prisonerIsAwake) && (archerIsAwake && prisonerIsAwake)) || (!archerIsAwake && prisonerIsAwake)
-
-	return can
+	return !archerIsAwake && prisonerIsAwake
 }
 
 // CanFreePrisoner can be executed if the prisoner is awake and the other 2 characters are asleep
