@@ -10,6 +10,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 3. [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
 
+4. [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
