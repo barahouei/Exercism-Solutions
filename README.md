@@ -12,6 +12,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 4. [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
 
+5. [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
