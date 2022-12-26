@@ -14,6 +14,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 5. [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
 
+6. [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
