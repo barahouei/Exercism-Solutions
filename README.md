@@ -16,6 +16,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 6. [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
 
+7. [Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
