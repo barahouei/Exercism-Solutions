@@ -18,6 +18,7 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 7. [Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)
 
+8. [Party Robot](https://exercism.org/tracks/go/exercises/party-robot)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
