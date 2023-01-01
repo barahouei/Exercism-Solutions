@@ -26,13 +26,24 @@ type Track struct {
 
 // NewTrack creates a new track
 func NewTrack(distance int) Track {
-	panic("Please implement the NewTrack function")
+	track := Track{distance: distance}
+
+	return track
 }
 
 // Drive drives the car one time. If there is not enough battery to drive one more time,
 // the car will not move.
 func Drive(car Car) Car {
-	panic("Please implement the Drive function")
+	track := NewTrack(car.distance)
+
+	if car.battery-car.batteryDrain >= 0 {
+		car.battery = car.battery - car.batteryDrain
+		track.distance += car.speed
+	}
+
+	car.distance = track.distance
+
+	return car
 }
 
 // CanFinish checks if a car is able to finish a certain track.
