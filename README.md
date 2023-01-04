@@ -24,6 +24,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 10. [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)
 
+11. [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
