@@ -28,6 +28,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 12. [Animal Magic](https://exercism.org/tracks/go/exercises/animal-magic)
 
+13. [Bird Watcher](https://exercism.org/tracks/go/exercises/bird-watcher)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
