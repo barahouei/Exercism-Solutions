@@ -26,6 +26,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 11. [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
 
+12. [Animal Magic](https://exercism.org/tracks/go/exercises/animal-magic)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
