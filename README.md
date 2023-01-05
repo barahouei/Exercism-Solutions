@@ -32,6 +32,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 14. [Interest is Interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting)
 
+15. [Lasagna Master](https://exercism.org/tracks/go/exercises/lasagna-master)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
