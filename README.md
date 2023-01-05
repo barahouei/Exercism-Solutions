@@ -30,6 +30,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 13. [Bird Watcher](https://exercism.org/tracks/go/exercises/bird-watcher)
 
+14. [Interest is Interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
