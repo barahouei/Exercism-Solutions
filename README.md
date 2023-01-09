@@ -36,6 +36,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 16. [Booking up for Beauty](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)
 
+17. [Gross Store](https://exercism.org/tracks/go/exercises/gross-store)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
