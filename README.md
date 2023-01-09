@@ -34,6 +34,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 15. [Lasagna Master](https://exercism.org/tracks/go/exercises/lasagna-master)
 
+16. [Booking up for Beauty](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
