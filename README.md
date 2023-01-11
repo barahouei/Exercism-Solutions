@@ -40,6 +40,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 18. [Chessboard](https://exercism.org/tracks/go/exercises/chessboard)
 
+19. [Election Day](https://exercism.org/tracks/go/exercises/election-day)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
