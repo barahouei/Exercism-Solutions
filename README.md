@@ -38,6 +38,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 17. [Gross Store](https://exercism.org/tracks/go/exercises/gross-store)
 
+18. [Chessboard](https://exercism.org/tracks/go/exercises/chessboard)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
