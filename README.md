@@ -42,6 +42,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 19. [Election Day](https://exercism.org/tracks/go/exercises/election-day)
 
+20. [Elon's Toys](https://exercism.org/tracks/go/exercises/elons-toys)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
