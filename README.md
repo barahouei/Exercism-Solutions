@@ -44,6 +44,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 20. [Elon's Toys](https://exercism.org/tracks/go/exercises/elons-toys)
 
+21. [Logs, Logs, Logs!](https://exercism.org/tracks/go/exercises/logs-logs-logs)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
