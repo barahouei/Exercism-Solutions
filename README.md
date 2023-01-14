@@ -48,6 +48,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 22. [The Farm](https://exercism.org/tracks/go/exercises/the-farm)
 
+23. [Parsing Log Files](https://exercism.org/tracks/go/exercises/parsing-log-files)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
