@@ -46,6 +46,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 21. [Logs, Logs, Logs!](https://exercism.org/tracks/go/exercises/logs-logs-logs)
 
+22. [The Farm](https://exercism.org/tracks/go/exercises/the-farm)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
