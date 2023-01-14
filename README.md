@@ -50,6 +50,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 23. [Parsing Log Files](https://exercism.org/tracks/go/exercises/parsing-log-files)
 
+24. [Census](https://exercism.org/tracks/go/exercises/census)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
