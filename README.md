@@ -52,6 +52,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 24. [Census](https://exercism.org/tracks/go/exercises/census)
 
+25. [Meteorology](https://exercism.org/tracks/go/exercises/meteorology)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
