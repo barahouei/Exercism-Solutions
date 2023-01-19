@@ -54,6 +54,8 @@ This repo is the solution to [exercism](https://exercism.org) exercises in Golan
 
 25. [Meteorology](https://exercism.org/tracks/go/exercises/meteorology)
 
+26. [Sorting Room](https://exercism.org/tracks/go/exercises/sorting-room)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
