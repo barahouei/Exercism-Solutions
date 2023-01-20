@@ -10,57 +10,57 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 2. [Gopher's Gorgeous Lasagna](lasagna)
 
-3. [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
+3. [Annalyn's Infiltration](annalyns-infiltration)
 
-4. [Weather Forecast](https://exercism.org/tracks/go/exercises/weather-forecast)
+4. [Weather Forecast](weather-forecast)
 
-5. [Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)
+5. [Cars Assemble](cars-assemble)
 
-6. [Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
+6. [Welcome To Tech Palace!](welcome-to-tech-palace)
 
-7. [Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)
+7. [Vehicle Purchase](vehicle-purchase)
 
-8. [Party Robot](https://exercism.org/tracks/go/exercises/party-robot)
+8. [Party Robot](party-robot)
 
-9. [Need For Speed](https://exercism.org/tracks/go/exercises/need-for-speed)
+9. [Need For Speed](need-for-speed)
 
-10. [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)
+10. [Blackjack](blackjack)
 
-11. [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)
+11. [Card Tricks](card-tricks)
 
-12. [Animal Magic](https://exercism.org/tracks/go/exercises/animal-magic)
+12. [Animal Magic](animal-magic)
 
-13. [Bird Watcher](https://exercism.org/tracks/go/exercises/bird-watcher)
+13. [Bird Watcher](bird-watcher)
 
-14. [Interest is Interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting)
+14. [Interest is Interesting](interest-is-interesting)
 
-15. [Lasagna Master](https://exercism.org/tracks/go/exercises/lasagna-master)
+15. [Lasagna Master](lasagna-master)
 
-16. [Booking up for Beauty](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)
+16. [Booking up for Beauty](booking-up-for-beauty)
 
-17. [Gross Store](https://exercism.org/tracks/go/exercises/gross-store)
+17. [Gross Store](gross-store)
 
-18. [Chessboard](https://exercism.org/tracks/go/exercises/chessboard)
+18. [Chessboard](chessboard)
 
-19. [Election Day](https://exercism.org/tracks/go/exercises/election-day)
+19. [Election Day](election-day)
 
-20. [Elon's Toys](https://exercism.org/tracks/go/exercises/elons-toys)
+20. [Elon's Toys](elons-toys)
 
-21. [Logs, Logs, Logs!](https://exercism.org/tracks/go/exercises/logs-logs-logs)
+21. [Logs, Logs, Logs!](logs-logs-logs)
 
-22. [The Farm](https://exercism.org/tracks/go/exercises/the-farm)
+22. [The Farm](the-farm)
 
-23. [Parsing Log Files](https://exercism.org/tracks/go/exercises/parsing-log-files)
+23. [Parsing Log Files](parsing-log-files)
 
-24. [Census](https://exercism.org/tracks/go/exercises/census)
+24. [Census](census)
 
-25. [Meteorology](https://exercism.org/tracks/go/exercises/meteorology)
+25. [Meteorology](meteorology)
 
-26. [Sorting Room](https://exercism.org/tracks/go/exercises/sorting-room)
+26. [Sorting Room](sorting-room)
 
-27. [Expenses](https://exercism.org/tracks/go/exercises/expenses)
+27. [Expenses](expenses)
 
-28. [Two Fer](https://exercism.org/tracks/go/exercises/two-fer)
+28. [Two Fer](two-fer)
 
 ## License
 
