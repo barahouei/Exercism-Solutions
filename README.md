@@ -62,6 +62,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 28. [Two Fer](two-fer)
 
+29. [Hamming](hamming)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
