@@ -1,14 +1,14 @@
 # Go exercism solutions
 
-This repo is the solution to [exercism](https://exercism.org) exercises in Golang.
+This repo is the solution to [exercism](https://exercism.org/tracks/go) exercises in Golang.
 
 ## Solved exercises
 
 *Note: Exercises 1 to 27 are learning exercises that are locked by default.*
 
-1. [Hello World](https://exercism.org/tracks/go/exercises/hello-world)
+1. [Hello World](hello-world)
 
-2. [Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)
+2. [Gopher's Gorgeous Lasagna](lasagna)
 
 3. [Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
 
