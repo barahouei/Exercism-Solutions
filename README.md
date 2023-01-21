@@ -66,6 +66,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 30. [Raindrops](raindrops)
 
+31. [Scrabble Score](scrabble-score)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
