@@ -64,6 +64,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 29. [Hamming](hamming)
 
+30. [Raindrops](raindrops)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
