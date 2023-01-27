@@ -70,6 +70,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 32. [Isogram](isogram)
 
+33. [Difference of Squares](difference-of-squares)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
