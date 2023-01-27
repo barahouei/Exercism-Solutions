@@ -68,6 +68,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 31. [Scrabble Score](scrabble-score)
 
+32. [Isogram](isogram)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
