@@ -4,7 +4,7 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 ## Solved exercises
 
-*Note: Exercises 1 to 27 are learning exercises that are locked by default.*
+*Note: Exercises 1 to 28 are learning exercises that are locked by default.*
 
 1. [Hello World](hello-world)
 
@@ -56,25 +56,27 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 25. [Airport Robot](airport-robot)
 
-25. [Meteorology](meteorology)
+26. [Meteorology](meteorology)
 
-26. [Sorting Room](sorting-room)
+27. [Sorting Room](sorting-room)
 
-27. [Expenses](expenses)
+28. [Expenses](expenses)
 
-28. [Two Fer](two-fer)
+---
 
-29. [Hamming](hamming)
+29. [Two Fer](two-fer)
 
-30. [Raindrops](raindrops)
+30. [Hamming](hamming)
 
-31. [Scrabble Score](scrabble-score)
+31. [Raindrops](raindrops)
 
-32. [Isogram](isogram)
+32. [Scrabble Score](scrabble-score)
 
-33. [Difference of Squares](difference-of-squares)
+33. [Isogram](isogram)
 
-34. [Luhn](luhn)
+34. [Difference of Squares](difference-of-squares)
+
+35. [Luhn](luhn)
 
 ## License
 
