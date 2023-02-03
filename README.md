@@ -54,6 +54,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 24. [Census](census)
 
+25. [Airport Robot](airport-robot)
+
 25. [Meteorology](meteorology)
 
 26. [Sorting Room](sorting-room)
