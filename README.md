@@ -72,6 +72,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 33. [Difference of Squares](difference-of-squares)
 
+34. [Luhn](luhn)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
