@@ -78,6 +78,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 35. [Luhn](luhn)
 
+36. [Pangram](pangram)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
