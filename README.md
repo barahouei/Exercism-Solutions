@@ -80,6 +80,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 36. [Pangram](pangram)
 
+37. [Grains](grains)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
