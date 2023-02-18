@@ -82,6 +82,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 37. [Grains](grains)
 
+38. [Anagram](anagram)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
