@@ -1,19 +1,28 @@
 package clock
 
-// Define the Clock type here.
+import "fmt"
+
+type Clock int
+
+const (
+	hourMinutes = 60
+	dayMinutes  = 1440
+)
 
 func New(h, m int) Clock {
-	panic("Please implement the New function")
+	hm := ((h*hourMinutes+m)%dayMinutes + dayMinutes) % dayMinutes
+
+	return Clock(hm)
 }
 
 func (c Clock) Add(m int) Clock {
-	panic("Please implement the Add function")
+	return New(0, int(c)+m)
 }
 
 func (c Clock) Subtract(m int) Clock {
-	panic("Please implement the Subtract function")
+	return New(0, int(c)-m)
 }
 
 func (c Clock) String() string {
-	panic("Please implement the String function")
+	return fmt.Sprintf("%02d:%02d", c/hourMinutes, c%hourMinutes)
 }
