@@ -84,6 +84,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 38. [Anagram](anagram)
 
+39. [Clock](clock)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
