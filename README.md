@@ -86,6 +86,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 39. [Clock](clock)
 
+40. [Atbash Cipher](atbash-cipher)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
