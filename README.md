@@ -88,6 +88,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 40. [Atbash Cipher](atbash-cipher)
 
+41. [Rotational Cipher](rotational-cipher)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
