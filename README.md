@@ -90,6 +90,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 41. [Rotational Cipher](rotational-cipher)
 
+42. [Binary Search Tree](binary-search-tree)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
