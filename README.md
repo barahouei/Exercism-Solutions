@@ -92,6 +92,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 42. [Binary Search Tree](binary-search-tree)
 
+43. [Reverse String](reverse-string)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
