@@ -94,6 +94,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 43. [Reverse String](reverse-string)
 
+44. [Word Count](word-count)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
