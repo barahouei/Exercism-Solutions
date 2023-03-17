@@ -1,15 +1,25 @@
-// This is a "stub" file.  It's a little start on your solution.
-// It's not a complete solution though; you have to write some code.
-
-// Package acronym should have a package comment that summarizes what it's about.
-// https://golang.org/doc/effective_go.html#commentary
+// Package acronym makes abbreviation of words.
 package acronym
 
-// Abbreviate should have a comment documenting it.
+import (
+	"regexp"
+	"strings"
+)
+
+// Abbreviate returns the abbreviation of a string.
 func Abbreviate(s string) string {
-	// Write some code here to pass the test suite.
-	// Then remove all the stock comments.
-	// They're here to help you get started but they only clutter a finished solution.
-	// If you leave them in, reviewers may protest!
-	return ""
+	s = strings.ReplaceAll(s, "-", " ")
+	s = regexp.MustCompile(`[^a-zA-Z ]+`).ReplaceAllString(s, "")
+
+	words := strings.Fields(s)
+
+	var res string
+
+	for _, word := range words {
+		res += word[0:1]
+	}
+
+	res = strings.ToUpper(res)
+
+	return res
 }
