@@ -96,6 +96,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 44. [Word Count](word-count)
 
+45. [Acronym](acronym)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
