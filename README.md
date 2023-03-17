@@ -100,4 +100,4 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
