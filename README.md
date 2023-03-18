@@ -98,6 +98,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 45. [Acronym](acronym)
 
+46. [Roman Numerals](roman-numerals)
+
 ## License
 
 [MIT](LICENSE)
