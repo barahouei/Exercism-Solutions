@@ -100,6 +100,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 46. [Roman Numerals](roman-numerals)
 
+47. [Collatz Conjecture](collatz-conjecture)
+
 ## License
 
 [MIT](LICENSE)
