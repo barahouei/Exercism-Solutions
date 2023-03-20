@@ -102,6 +102,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 47. [Collatz Conjecture](collatz-conjecture)
 
+48. [RNA Transcription](rna-transcription)
+
 ## License
 
 [MIT](LICENSE)
