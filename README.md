@@ -106,6 +106,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 49. [Matching Brackets](matching-brackets)
 
+50. [Nucleotide Count](nucleotide-count)
+
 ## License
 
 [MIT](LICENSE)
