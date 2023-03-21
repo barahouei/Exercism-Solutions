@@ -104,6 +104,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 48. [RNA Transcription](rna-transcription)
 
+49. [Matching Brackets](matching-brackets)
+
 ## License
 
 [MIT](LICENSE)
