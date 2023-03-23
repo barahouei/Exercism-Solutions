@@ -108,6 +108,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 50. [Nucleotide Count](nucleotide-count)
 
+51. [Leap](leap)
+
 ## License
 
 [MIT](LICENSE)
