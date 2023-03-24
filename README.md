@@ -110,6 +110,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 51. [Leap](leap)
 
+52. [Strain](strain)
+
 ## License
 
 [MIT](LICENSE)
