@@ -112,6 +112,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 52. [Strain](strain)
 
+53. [Simple Linked List](simple-linked-list)
+
 ## License
 
 [MIT](LICENSE)
