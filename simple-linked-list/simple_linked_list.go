@@ -1,27 +1,87 @@
+// Package linkedlist works with linked list.
 package linkedlist
 
-// Define the List and Element types here.
+import "errors"
 
+// Node is a structure of data and next node.
+type Node struct {
+	Data int
+	Next *Node
+}
+
+// List is a collection of nodes and their number.
+type List struct {
+	Head   *Node
+	Length int
+}
+
+// New returns a linked list of the given elements.
 func New(elements []int) *List {
-	panic("Please implement the New function")
+	var list List
+
+	for _, v := range elements {
+		list.Push(v)
+	}
+
+	return &list
 }
 
+// Size returns the number of nodes in the linked list.
 func (l *List) Size() int {
-	panic("Please implement the Size function")
+	return l.Length
 }
 
+// Push adds an item to the linked list.
 func (l *List) Push(element int) {
-	panic("Please implement the Push function")
+	second := l.Head
+	node := &Node{Data: element}
+
+	l.Head = node
+	l.Head.Next = second
+
+	l.Length++
 }
 
+// Pop returns the top item of the linked list.
 func (l *List) Pop() (int, error) {
-	panic("Please implement the Pop function")
+	if l.Length == 0 {
+		return 0, errors.New("can't Pop from empty list")
+	}
+
+	toDelete := l.Head.Data
+	l.Head = l.Head.Next
+
+	l.Length--
+
+	return toDelete, nil
 }
 
+// Array returns an array of the linked lists items
+// in the original order.
 func (l *List) Array() []int {
-	panic("Please implement the Array function")
+	var array []int
+	reversedList := l.Reverse()
+
+	for reversedList.Length != 0 {
+		n, err := reversedList.Pop()
+		if err != nil {
+			return []int{}
+		}
+
+		array = append(array, n)
+	}
+
+	return array
 }
 
+// Reverse returns a reversed linked list.
 func (l *List) Reverse() *List {
-	panic("Please implement the Reverse function")
+	var reversedList List
+
+	for l.Head != nil {
+		n, _ := l.Pop()
+		reversedList.Push(n)
+	}
+
+	return &reversedList
 }
