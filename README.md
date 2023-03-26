@@ -114,6 +114,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 53. [Simple Linked List](simple-linked-list)
 
+54. [Nth Prime](nth-prime)
+
 ## License
 
 [MIT](LICENSE)
