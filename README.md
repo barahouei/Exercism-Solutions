@@ -116,6 +116,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 54. [Nth Prime](nth-prime)
 
+55. [ETL](etl)
+
 ## License
 
 [MIT](LICENSE)
