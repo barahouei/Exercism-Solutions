@@ -118,6 +118,8 @@ This repo is the solution to [exercism](https://exercism.org/tracks/go) exercise
 
 55. [ETL](etl)
 
+56. [Bank Account](bank-account)
+
 ## License
 
 [MIT](LICENSE)
