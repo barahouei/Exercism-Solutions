@@ -1,6 +1,6 @@
 # Go exercism solutions
 
-This repo is the solution to [exercism](https://exercism.org/tracks/go) exercises in Golang.
+This repository is the solution to [exercism](https://exercism.org/tracks/go) exercises in Golang.
 
 ## Solved exercises
 
