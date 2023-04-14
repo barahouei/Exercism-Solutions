@@ -4,33 +4,90 @@ package listops
 type IntList []int
 
 func (s IntList) Foldl(fn func(int, int) int, initial int) int {
-	panic("Please implement the Foldl function")
+	for _, v := range s {
+		initial = fn(initial, v)
+	}
+
+	return initial
 }
 
 func (s IntList) Foldr(fn func(int, int) int, initial int) int {
-	panic("Please implement the Foldr function")
+	for i := s.Length() - 1; i >= 0; i-- {
+		initial = fn(s[i], initial)
+	}
+
+	return initial
 }
 
 func (s IntList) Filter(fn func(int) bool) IntList {
-	panic("Please implement the Filter function")
+	newList := make(IntList, s.Length())
+
+	i := 0
+	for _, v := range s {
+		if fn(v) {
+			newList[i] = v
+			i++
+		}
+	}
+
+	newList = newList[:i]
+
+	return newList
 }
 
 func (s IntList) Length() int {
-	panic("Please implement the Length function")
+	var countLenght int
+
+	for range s {
+		countLenght++
+	}
+
+	return countLenght
 }
 
 func (s IntList) Map(fn func(int) int) IntList {
-	panic("Please implement the Map function")
+	newList := make(IntList, s.Length())
+
+	for i, v := range s {
+		newList[i] = fn(v)
+	}
+
+	return newList
 }
 
 func (s IntList) Reverse() IntList {
-	panic("Please implement the Reverse function")
+	if s.Length() == 0 {
+		return s
+	}
+
+	reversedList := make(IntList, s.Length())
+
+	for i, j := s.Length()-1, 0; i >= 0; i, j = i-1, j+1 {
+		reversedList[j] = s[i]
+	}
+
+	return reversedList
 }
 
 func (s IntList) Append(lst IntList) IntList {
-	panic("Please implement the Append function")
+	ls := s.Length() + lst.Length()
+	newList := make([]int, ls)
+
+	for k, v := range s {
+		newList[k] = v
+	}
+
+	for k, v := range lst {
+		newList[s.Length()+k] = v
+	}
+
+	return newList
 }
 
 func (s IntList) Concat(lists []IntList) IntList {
-	panic("Please implement the Concat function")
+	for _, list := range lists {
+		s = s.Append(list)
+	}
+
+	return s
 }
