@@ -120,6 +120,8 @@ This repository is the solution to [exercism](https://exercism.org/tracks/go) ex
 
 56. [Bank Account](bank-account)
 
+57. [List Ops](list-ops)
+
 ## License
 
 [MIT](LICENSE)
